@@ -27,7 +27,7 @@ Para a proposta acima, preciso apenas das variáveis seguintes na base de dados:
 | Planejado |        |       |          |       |        |          |
 | Realizado até dd/mm/aa |      |       |      |      |       |          |
 
-Com essa base de dados, gerei um gráfico comparando a cultivar (eixo X) com a contagem de cliente (eixo Y), incluindo como legenda o período, para que seja possível comparar os dados planejados dos realizados.
+Com essa base de dados, gerei um gráfico comparando a cultivar (eixo X) com a contagem de cliente (eixo Y), incluindo como legenda o período, para que seja possível comparar os dados planejados com os realizados.
 
 ![Captura de tela 2023-12-26 111849](https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/d36b7eb3-db5e-4996-a201-4478ed9d0f84)
 
