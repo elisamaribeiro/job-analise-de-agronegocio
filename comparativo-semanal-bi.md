@@ -1,4 +1,4 @@
-# Evolução de Geração de Demanda de Sementes
+# Evolução de Geração de Demanda
 Frequência: atualização semanal
 
 ### Definição do problema
