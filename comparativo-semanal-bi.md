@@ -31,7 +31,7 @@ Com essa base de dados, gerei um gráfico comparando a cultivar (eixo X) com a c
 
 <img width="380" alt="image" src="https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/a03499f2-7bb2-4bd1-b85a-df7cf743ed53">
 
-Para facilitar a visualização dos diretores e gerentes, inclui como filtros a regional,, a filial, o nome do CTV responsável e o nome do cliente.
+Para facilitar a visualização dos diretores e gerentes, inclui como filtros a regional, a filial, o nome do CTV responsável, nome do cliente e o obtentor.
 
 <img width="323" alt="image" src="https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/ec190f32-0da5-4604-986f-4434d4b32116">
 
