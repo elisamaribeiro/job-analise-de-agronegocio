@@ -39,7 +39,7 @@ Além disso, inclui dois quadros para mostrar, de acordo com os filtros selecion
 
 <img width="214" alt="image" src="https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/42946939-38e6-4df2-bcfc-95a2d215a85a">
 
-Para finalizar, também apresentei dois quadros com a participação dos obtentores em relação ao total. Sendo que o primeiro foi em relação aos valores planejados, e o segundo os realizados.
+Para finalizar, também apresentei dois quadros com a participação dos fornecedores em relação ao total. Sendo que o primeiro foi em relação aos valores planejados, e o segundo os realizados.
 
 ![Captura de tela 2023-12-26 112321](https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/2d581698-c1a8-4497-848c-53760545dfa9)
 
