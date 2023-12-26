@@ -45,4 +45,5 @@ Para finalizar, também apresentei dois quadros com a participação dos obtento
 
 O relatório inteiro ficou com essa aparência, porém diariamente faço ajustes pontuais:
 
-![Captura de tela 2023-12-26 112447](https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/13ecad67-411d-48ed-8612-a124cd740911)
+![Captura de tela 2023-12-26 112447](https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/4799d225-b24e-4b4c-a55e-55ad1991cd44)
+
