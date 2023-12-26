@@ -29,7 +29,7 @@ Para a proposta acima, preciso apenas das variáveis seguintes na base de dados:
 
 Com essa base de dados, gerei um gráfico comparando a cultivar (eixo X) com a contagem de cliente (eixo Y), incluindo como legenda o período, para que seja possível comparar os dados planejados dos realizados.
 
-<img width="380" alt="image" src="https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/a03499f2-7bb2-4bd1-b85a-df7cf743ed53">
+![Captura de tela 2023-12-26 111849](https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/d36b7eb3-db5e-4996-a201-4478ed9d0f84)
 
 Para facilitar a visualização dos diretores e gerentes, inclui como filtros a regional, a filial, o nome do CTV responsável, nome do cliente e o obtentor.
 
@@ -41,9 +41,8 @@ Além disso, inclui dois quadros para mostrar, de acordo com os filtros selecion
 
 Para finalizar, também apresentei dois quadros com a participação dos obtentores em relação ao total. Sendo que o primeiro foi em relação aos valores planejados, e o segundo os realizados.
 
-<img width="321" alt="image" src="https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/28ad95db-b3bc-43e2-9a1b-d9fb6685862a">
+![Captura de tela 2023-12-26 112321](https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/2d581698-c1a8-4497-848c-53760545dfa9)
 
 O relatório inteiro ficou com essa aparência, porém diariamente faço ajustes pontuais:
 
-![image](https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/4f5524b5-b506-4947-8792-5d051a944b1c)
-
+![Captura de tela 2023-12-26 112447](https://github.com/elisamaribeiro/job-analise-de-agronegocio/assets/125142048/13ecad67-411d-48ed-8612-a124cd740911)
