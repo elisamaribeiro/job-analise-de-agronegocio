@@ -4,5 +4,5 @@ Análise de dados provenientes da área de geração de demanda de empresa distr
 Nesta função, estou realizando:
 - [Relatório para acompanhamento semanal de dados de análise de campo lado a lado no Power BI.](https://github.com/elisamaribeiro/job-analise-de-agronegocio/blob/main/comparativo-semanal-bi.md)
 
-Encontro soluções para dificuldades como:
+Encontro soluções para desafios:
 - [Script para cruzar nomes de clientes de duas bases diferentes e encontrar correspondentes inexatos](https://github.com/elisamaribeiro/job-analise-de-agronegocio/blob/main/correspondencia-de-nome.R)
