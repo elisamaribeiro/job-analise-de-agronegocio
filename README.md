@@ -9,3 +9,4 @@ Encontro soluções para desafios:
 
 E realizo buscar via PostgreSQL:
 - [Consulta de clientes cadastrados por segmentos](https://github.com/elisamaribeiro/job-analise-de-agronegocio/blob/main/clientes-cadastrados-segmentos.sql)
+- [Consulta de clientes colhidos por segmentos](https://github.com/elisamaribeiro/job-analise-de-agronegocio/blob/main/clientes-colhidos-segmentos.sql)
