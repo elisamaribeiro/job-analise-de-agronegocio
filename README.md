@@ -12,4 +12,4 @@ Realizo buscar via PostgreSQL:
 - [Consulta de clientes colhidos por segmentos](https://github.com/elisamaribeiro/job-analise-de-agronegocio/blob/main/clientes-colhidos-segmentos.sql)
 
 E faço análises estatísticas:
-- [Análise de Adaptabilidade e Estabilidade de Cultivares]()
+- [Análise de Adaptabilidade e Estabilidade de Cultivares](https://github.com/elisamaribeiro/job-analise-de-agronegocio/blob/main/adap-estab-finlay-wilk.R)
