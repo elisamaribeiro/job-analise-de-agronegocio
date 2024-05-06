@@ -7,6 +7,9 @@ Nesta função, estou realizando:
 Encontro soluções para desafios:
 - [Script para cruzar nomes de clientes de duas bases diferentes e encontrar correspondentes inexatos](https://github.com/elisamaribeiro/job-analise-de-agronegocio/blob/main/correspondencia-de-nome.R)
 
-E realizo buscar via PostgreSQL:
+Realizo buscar via PostgreSQL:
 - [Consulta de clientes cadastrados por segmentos](https://github.com/elisamaribeiro/job-analise-de-agronegocio/blob/main/clientes-cadastrados-segmentos.sql)
 - [Consulta de clientes colhidos por segmentos](https://github.com/elisamaribeiro/job-analise-de-agronegocio/blob/main/clientes-colhidos-segmentos.sql)
+
+E faço análises estatísticas:
+- [Análise de Adaptabilidade e Estabilidade de Cultivares]()
